@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/08cc6aa3-be62-450d-9439-2d25ddd295f2" alt="image" width="1024" height="422" />
+</p>
+
 ---
 
 # 🛠️ Bash & PowerShell CML Toolkit  
@@ -22,6 +26,10 @@ In contemporary hybrid environments, effective system administration and cyberse
 
 # 🪟 This Repository is Divided Into Two Main Sections🐧
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afb6d54a-0c40-4ac0-ad1b-581148f86ef1" alt="bash powershell ic gifs" width="80%" />
+</p>
+
 ## 🐧 **Linux Bash**
 🔸Bash: Linux Troubleshooting, automation, and diagnostics for sysadmins, DevOps engineers, and incident responders
 
@@ -40,7 +48,6 @@ Bash scripting toolkit for:
 🔸Part 1 – **Bash Toolkit** | Troubleshooting, Automation, and Diagnostics
 
 🔗 <a href="https://github.com/reyestech/Bash-Linux-Troubleshoot-and-Automation-Toolkit-?tab=readme-ov-file#4%EF%B8%8F%E2%83%A3-system_health_snapshotsh" target="_blank">**View on GitHub: Bash Scripts Toolkit**</a>
-
 
 ## 🪟 **Windows PowerShell** 
 🔹PowerShell: Windows event log collection, Defender status, and remediation workflows for SOC teams and blue teamers
@@ -75,6 +82,10 @@ Each script is:
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/12e4127e-6c9c-44d4-a9e5-60a1b9a5f34a" alt="bash powershell gif" width="64%" />
+</p>
+
 ## 🏁 Conclusion
 
 The **CML Toolkit** is a valuable resource designed to enhance clarity, efficiency, and automation for professionals in cybersecurity, infrastructure management, and IT operations. It features a comprehensive set of tools and scripts that facilitate seamless integration of Bash and PowerShell workflows, simplifying transitions between command-line environments.
@@ -96,3 +107,5 @@ We encourage:
 - 🤝 **Pull requests** — security and automation are team efforts
 
 🔍 Happy hunting — and automate all the things!
+
+
